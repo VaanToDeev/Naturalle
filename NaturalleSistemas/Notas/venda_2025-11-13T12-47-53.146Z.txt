@@ -1,0 +1,18 @@
+--- NOTA DA VENDA ---
+Data/Hora: 13/11/2025, 09:47
+
+ITENS:
+----------------------
+(AGR09) Castanha Assada
+  286g x R$ 80,00/kg = R$ 22,88
+
+(AGR04) Amendoim torrado
+  210g x R$ 41,67/kg = R$ 8,75
+
+(AGR65) Uvas passas
+  202g x R$ 68,33/kg = R$ 13,80
+
+----------------------
+TOTAL_VENDA: R$ 45,43
+TOTAL_CUSTO: R$ 30,12
+LUCRO: R$ 15,31

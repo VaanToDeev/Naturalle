@@ -1,0 +1,15 @@
+--- NOTA DA VENDA ---
+Data/Hora: 13/11/2025, 08:54
+
+ITENS:
+----------------------
+(AGR09) Castanha Assada
+  100g x R$ 96,67/kg = R$ 9,67
+
+(AGR46) Mulungú
+  54g x R$ 46,67/kg = R$ 2,52
+
+----------------------
+TOTAL_VENDA: R$ 12,19
+TOTAL_CUSTO: R$ 7,31
+LUCRO: R$ 4,88
