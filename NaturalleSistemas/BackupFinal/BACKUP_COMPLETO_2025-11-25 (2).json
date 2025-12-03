@@ -1,0 +1,1723 @@
+{
+  "products": [
+    {
+      "id": "AGR01",
+      "nome": "Açúcar mascavo",
+      "peso": 10,
+      "precoCompraKg": 10,
+      "precoTotalCompra": 100,
+      "precoAntigoKg": 13,
+      "precoVendaKg": 16.67,
+      "localId": "7ca6b03d-2ddb-4255-900f-164ee086df3f"
+    },
+    {
+      "id": "AGR02",
+      "nome": "Açúcar de coco",
+      "peso": 2,
+      "precoCompraKg": 49,
+      "precoTotalCompra": 98,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 81.67,
+      "localId": "30329b57-d3d3-4efc-8534-b9df88e69351"
+    },
+    {
+      "id": "AGR03",
+      "nome": "Amora Miura",
+      "precoVendaKg": 100,
+      "precoAntigoKg": 100,
+      "peso": 1.5,
+      "precoCompraKg": 25,
+      "precoTotalCompra": 37.5,
+      "localId": "cb5f1b44-e8ef-41fe-8986-ed05c8087bc2"
+    },
+    {
+      "id": "AGR04",
+      "nome": "Amendoim torrado",
+      "peso": 2.796,
+      "precoCompraKg": 25,
+      "precoTotalCompra": 75,
+      "precoAntigoKg": 50,
+      "precoVendaKg": 41.67,
+      "localId": "6c3d1bc8-0c1c-4f1b-a1da-d3cba0a8bcb3"
+    },
+    {
+      "id": "AGR05",
+      "nome": "Amêndoas",
+      "peso": 2,
+      "precoCompraKg": 107,
+      "precoTotalCompra": 214,
+      "precoAntigoKg": 190,
+      "precoVendaKg": 178.33,
+      "localId": "73911a12-6123-45ac-96cd-7a8330faa867"
+    },
+    {
+      "id": "AGR06",
+      "nome": "Ameixa sem caroço",
+      "peso": 2,
+      "precoCompraKg": 55,
+      "precoTotalCompra": 110,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 91.67,
+      "localId": "40ba1af5-8cd5-4c54-8319-f218c2c96c86"
+    },
+    {
+      "id": "AGR07",
+      "nome": "Aveia Sem Glúten",
+      "peso": 5,
+      "precoCompraKg": 16,
+      "precoTotalCompra": 80,
+      "precoAntigoKg": 50,
+      "precoVendaKg": 26.67,
+      "localId": "fb8e4927-dddd-4f48-ae33-50cdee59361f"
+    },
+    {
+      "id": "AGR08",
+      "nome": "Bicarbonato de sódio",
+      "peso": 3,
+      "precoCompraKg": 12,
+      "precoTotalCompra": 36,
+      "precoAntigoKg": 40,
+      "precoVendaKg": 20,
+      "localId": "3d94e972-8187-4db1-8fa9-d30d7a1a03f9"
+    },
+    {
+      "id": "AGR09",
+      "nome": "Castanha Assada",
+      "precoVendaKg": 80,
+      "precoAntigoKg": 80,
+      "peso": 5,
+      "precoCompraKg": 58,
+      "precoTotalCompra": 290,
+      "localId": "9ed9152e-a246-48cb-ae8b-434b247f489b"
+    },
+    {
+      "id": "AGR10",
+      "nome": "Castanha Caramelizada",
+      "peso": 1.9,
+      "precoCompraKg": 45,
+      "precoTotalCompra": 90,
+      "precoAntigoKg": 69.9,
+      "precoVendaKg": 75,
+      "localId": "0da9ddb1-37ca-40de-b5a7-d2ab001272a8"
+    },
+    {
+      "id": "AGR11",
+      "nome": "Castanha do Pará",
+      "peso": 4.9,
+      "precoCompraKg": 155,
+      "precoTotalCompra": 775,
+      "precoAntigoKg": 200,
+      "precoVendaKg": 258.33,
+      "localId": "40bd0463-b767-4ab2-a0d0-7f8b4466b27c"
+    },
+    {
+      "id": "AGR12",
+      "nome": "Carqueja",
+      "peso": 1.5,
+      "precoCompraKg": 18,
+      "precoTotalCompra": 27,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 30,
+      "localId": "eb51fd72-4c8e-4b83-9427-9c306710dbcd"
+    },
+    {
+      "id": "AGR13",
+      "nome": "Cavalinha",
+      "peso": 2,
+      "precoCompraKg": 63,
+      "precoTotalCompra": 126,
+      "precoAntigoKg": 150,
+      "precoVendaKg": 105,
+      "localId": "2c311a8e-2fdc-4238-9cdd-9cf97a4f29ca"
+    },
+    {
+      "id": "AGR15",
+      "nome": "Camomila",
+      "peso": 1.9,
+      "precoCompraKg": 52,
+      "precoTotalCompra": 104,
+      "precoAntigoKg": 110,
+      "precoVendaKg": 86.67,
+      "localId": "d9e20e74-c50c-4797-b477-612117e2de86"
+    },
+    {
+      "id": "AGR16",
+      "nome": "Chips Banana",
+      "peso": 1.5,
+      "precoCompraKg": 106,
+      "precoTotalCompra": 159,
+      "precoAntigoKg": 170,
+      "precoVendaKg": 176.67,
+      "localId": "9d3d2026-6e38-4e05-a25d-34fc8be8714f"
+    },
+    {
+      "id": "AGR17",
+      "nome": "Chips de Mandioca",
+      "peso": 2,
+      "precoCompraKg": 94,
+      "precoTotalCompra": 188,
+      "precoAntigoKg": 189,
+      "precoVendaKg": 156.67,
+      "localId": "c1a88ebb-4dc2-4e57-91ab-b170cf8fec88"
+    },
+    {
+      "id": "AGR18",
+      "nome": "Chá Verde",
+      "peso": 2,
+      "precoCompraKg": 34,
+      "precoTotalCompra": 68,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 56.67,
+      "localId": "dd937869-c71b-4b43-bf7a-e9f174bb5958"
+    },
+    {
+      "id": "AGR19",
+      "nome": "Chimichurri c/pimenta",
+      "peso": 2,
+      "precoCompraKg": 39,
+      "precoTotalCompra": 78,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 65,
+      "localId": "470ec3e7-ca78-40b3-9a82-533ad1a0a375"
+    },
+    {
+      "id": "AGR20",
+      "nome": "Chimichurri s/pimenta",
+      "peso": 2.808,
+      "precoCompraKg": 39,
+      "precoTotalCompra": 117,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 65,
+      "localId": "02b03464-15c3-4e2c-91be-b94fec367f55"
+    },
+    {
+      "id": "AGR21",
+      "nome": "Chia",
+      "peso": 4.9,
+      "precoCompraKg": 32,
+      "precoTotalCompra": 160,
+      "precoAntigoKg": 6.99,
+      "precoVendaKg": 53.33,
+      "localId": "b48f9d02-5286-4524-8db8-5f6b08ae780e"
+    },
+    {
+      "id": "AGR22",
+      "nome": "Colágeno hidrolisado",
+      "peso": 5,
+      "precoCompraKg": 107,
+      "precoTotalCompra": 535,
+      "precoAntigoKg": 210,
+      "precoVendaKg": 178.33,
+      "localId": "4829192b-68d2-4b1d-9475-c45f9880484e"
+    },
+    {
+      "id": "AGR23",
+      "nome": "Cramberry",
+      "peso": 1.91,
+      "precoCompraKg": 61,
+      "precoTotalCompra": 122,
+      "precoAntigoKg": 140,
+      "precoVendaKg": 101.67,
+      "localId": "12472eaf-c3ed-454f-a523-f5a194b3e418"
+    },
+    {
+      "id": "AGR24",
+      "nome": "Creatina",
+      "peso": 2,
+      "precoCompraKg": 64,
+      "precoTotalCompra": 128,
+      "precoAntigoKg": 39.9,
+      "precoVendaKg": 106.67,
+      "localId": "fe14182a-68dc-433c-8dcf-643bf7745bbd"
+    },
+    {
+      "id": "AGR25",
+      "nome": "Cúrcuma",
+      "peso": 5,
+      "precoCompraKg": 14,
+      "precoTotalCompra": 70,
+      "precoAntigoKg": 59.9,
+      "precoVendaKg": 23.33,
+      "localId": "6198ae5c-cc35-43ce-9f07-2e500003a764"
+    },
+    {
+      "id": "AGR26",
+      "nome": "Erva Baleeira",
+      "peso": 2,
+      "precoCompraKg": 29,
+      "precoTotalCompra": 58,
+      "precoAntigoKg": 110,
+      "precoVendaKg": 48.33,
+      "localId": "e246830d-a804-4dfe-a258-1b6d2c6dbe9b"
+    },
+    {
+      "id": "AGR27",
+      "nome": "Espinheira Santa",
+      "peso": 2,
+      "precoCompraKg": 44,
+      "precoTotalCompra": 88,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 73.33,
+      "localId": "d6df0035-458e-4304-b1ad-7cb99754be36"
+    },
+    {
+      "id": "AGR28",
+      "nome": "Farelo de aveia",
+      "peso": 4.667,
+      "precoCompraKg": 18,
+      "precoTotalCompra": 90,
+      "precoAntigoKg": 50,
+      "precoVendaKg": 30,
+      "localId": "f606f956-24ef-46ab-a905-d2996e838487"
+    },
+    {
+      "id": "AGR29",
+      "nome": "Farinha de beterraba",
+      "peso": 3,
+      "precoCompraKg": 54,
+      "precoTotalCompra": 162,
+      "precoAntigoKg": 130,
+      "precoVendaKg": 90,
+      "localId": "7c18f367-7b09-4819-816e-41e7757be5b7"
+    },
+    {
+      "id": "AGR30",
+      "nome": "Farinha de uva",
+      "peso": 2.864,
+      "precoCompraKg": 50,
+      "precoTotalCompra": 150,
+      "precoAntigoKg": 110,
+      "precoVendaKg": 83.33,
+      "localId": "f9303f71-c015-430a-a569-9be5ba3f14b9"
+    },
+    {
+      "id": "AGR31",
+      "nome": "Glutamina",
+      "peso": 2,
+      "precoCompraKg": 132,
+      "precoTotalCompra": 264,
+      "precoAntigoKg": 350,
+      "precoVendaKg": 220,
+      "localId": "eb663c47-ae32-493e-907a-ced5307c55c0"
+    },
+    {
+      "id": "AGR32",
+      "nome": "Gergelim Integral",
+      "peso": 5,
+      "precoCompraKg": 15,
+      "precoTotalCompra": 75,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 25,
+      "localId": "f31eba6b-0b3d-4e65-a012-5a918e9c1653"
+    },
+    {
+      "id": "AGR32-B",
+      "nome": "Gergelim Preto",
+      "peso": 5,
+      "precoCompraKg": 45,
+      "precoTotalCompra": 225,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 75,
+      "localId": "8e8b80e0-31c7-4dfd-b41a-f508086f7e57"
+    },
+    {
+      "id": "AGR33",
+      "nome": "Gengibre em pó",
+      "peso": 3,
+      "precoCompraKg": 38,
+      "precoTotalCompra": 114,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 63.33,
+      "localId": "8c2c4388-6bb1-413d-81c1-138bea511abd"
+    },
+    {
+      "id": "AGR33-B",
+      "nome": "Canela em pó",
+      "peso": 2,
+      "precoCompraKg": 21,
+      "precoTotalCompra": 42,
+      "precoAntigoKg": 90,
+      "precoVendaKg": 35,
+      "localId": "3c29e2df-db46-46d8-afe9-38bc03156461"
+    },
+    {
+      "id": "AGR34",
+      "nome": "Guaco",
+      "peso": 1.5,
+      "precoCompraKg": 87,
+      "precoTotalCompra": 130.5,
+      "precoAntigoKg": 160,
+      "precoVendaKg": 145,
+      "localId": "0dad9f3b-0921-42b3-aa1e-6fc5c657fa1f"
+    },
+    {
+      "id": "AGR35",
+      "nome": "Guaraná em pó",
+      "peso": 3,
+      "precoCompraKg": 47,
+      "precoTotalCompra": 141,
+      "precoAntigoKg": 120,
+      "precoVendaKg": 78.33,
+      "localId": "e2cc2bf0-4942-48b7-beb3-5d7fd7dbab96"
+    },
+    {
+      "id": "AGR36",
+      "nome": "Granola sem açúcar",
+      "precoVendaKg": 62,
+      "precoAntigoKg": 80,
+      "peso": 2,
+      "precoCompraKg": 37,
+      "precoTotalCompra": 74,
+      "localId": "2b471d83-f4c4-4047-88a9-a5cd67263182"
+    },
+    {
+      "id": "AGR37",
+      "nome": "Granola tradicional",
+      "precoVendaKg": 75,
+      "precoAntigoKg": 90,
+      "peso": 2,
+      "precoCompraKg": 40,
+      "precoTotalCompra": 80,
+      "localId": "4d557461-75b7-4269-8162-dcacda6145f3"
+    },
+    {
+      "id": "AGR38",
+      "nome": "Hibisco flor",
+      "peso": 3,
+      "precoCompraKg": 31,
+      "precoTotalCompra": 93,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 51.67,
+      "localId": "fa5f8ab2-caf7-403c-9c6f-53ba780cb6c4"
+    },
+    {
+      "id": "AGR39",
+      "nome": "Hortelã",
+      "peso": 2,
+      "precoCompraKg": 19,
+      "precoTotalCompra": 38,
+      "precoAntigoKg": 90,
+      "precoVendaKg": 31.67,
+      "localId": "d6c05677-c923-4a9d-9dbc-992189a17785"
+    },
+    {
+      "id": "AGR40",
+      "nome": "Leite de coco vegano",
+      "peso": 5,
+      "precoCompraKg": 74,
+      "precoTotalCompra": 370,
+      "precoAntigoKg": 160,
+      "precoVendaKg": 123.33,
+      "localId": "f28dd2c9-a3ad-4c95-9f9f-acd2762af1bd"
+    },
+    {
+      "id": "AGR41",
+      "nome": "Lemon pepper",
+      "peso": 2.772,
+      "precoCompraKg": 36,
+      "precoTotalCompra": 108,
+      "precoAntigoKg": 90,
+      "precoVendaKg": 60,
+      "localId": "99141d78-4c29-4b1f-9358-a7cafa6ea299"
+    },
+    {
+      "id": "AGR42",
+      "nome": "Linhaça",
+      "peso": 5,
+      "precoCompraKg": 19,
+      "precoTotalCompra": 95,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 31.67,
+      "localId": "952dd406-d673-4ebc-ab0f-29aa98978ad0"
+    },
+    {
+      "id": "AGR43",
+      "nome": "Louro",
+      "peso": 1,
+      "precoCompraKg": 56,
+      "precoTotalCompra": 56,
+      "precoAntigoKg": 130,
+      "precoVendaKg": 93.33,
+      "localId": "68a7be6e-cf1c-4d4b-87a7-9f154dfc98fd"
+    },
+    {
+      "id": "AGR44",
+      "nome": "Maca peruana",
+      "peso": 5,
+      "precoCompraKg": 42,
+      "precoTotalCompra": 210,
+      "precoAntigoKg": 110,
+      "precoVendaKg": 70,
+      "localId": "2d9d1007-2eb5-497c-8073-2bd9052ca7d4"
+    },
+    {
+      "id": "AGR45",
+      "nome": "Milho mostarda/mel",
+      "peso": 2,
+      "precoCompraKg": 53,
+      "precoTotalCompra": 106,
+      "precoAntigoKg": 120,
+      "precoVendaKg": 88.33,
+      "localId": "db28638a-270a-41ba-aff2-05ef7ef7c2bd"
+    },
+    {
+      "id": "AGR46",
+      "nome": "Mulungú",
+      "peso": 1.45,
+      "precoCompraKg": 28,
+      "precoTotalCompra": 42,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 46.67,
+      "localId": "90bf05a6-efc0-471a-ac76-0f26074ae0d2"
+    },
+    {
+      "id": "AGR47",
+      "nome": "Nozes",
+      "peso": 3,
+      "precoCompraKg": 115,
+      "precoTotalCompra": 345,
+      "precoAntigoKg": 220,
+      "precoVendaKg": 191.67,
+      "localId": "4870cfcd-0f63-4459-8507-423d2b1d4ed6"
+    },
+    {
+      "id": "AGR48",
+      "nome": "Orégano peruano",
+      "peso": 1.5,
+      "precoCompraKg": 42,
+      "precoTotalCompra": 63,
+      "precoAntigoKg": 120,
+      "precoVendaKg": 70,
+      "localId": "11f6c932-19a0-4c82-b606-b9df93923cb6"
+    },
+    {
+      "id": "AGR49",
+      "nome": "Passiflora",
+      "peso": 2,
+      "precoCompraKg": 40,
+      "precoTotalCompra": 80,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 66.67,
+      "localId": "b5dd1055-0e07-4446-870e-7fc3d098e567"
+    },
+    {
+      "id": "AGR50",
+      "nome": "Páprica defumada",
+      "peso": 1.682,
+      "precoCompraKg": 25,
+      "precoTotalCompra": 50,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 41.67,
+      "localId": "684d2e1c-58d8-44d2-b8fd-a9560462e691"
+    },
+    {
+      "id": "AGR51",
+      "nome": "Páprica picante",
+      "peso": 2,
+      "precoCompraKg": 19,
+      "precoTotalCompra": 38,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 31.67,
+      "localId": "9260179f-cff3-4796-a9a2-c8a612070443"
+    },
+    {
+      "id": "AGR52",
+      "nome": "Páprica doce",
+      "peso": 3,
+      "precoCompraKg": 20,
+      "precoTotalCompra": 60,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 33.33,
+      "localId": "cbac76a0-fbbc-4f91-a512-4fa9fa5566b7"
+    },
+    {
+      "id": "AGR53",
+      "nome": "Pata de vaca",
+      "peso": 1.5,
+      "precoCompraKg": 30,
+      "precoTotalCompra": 45,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 50,
+      "localId": "109c3986-7884-4628-81f7-f2596b35e0c6"
+    },
+    {
+      "id": "AGR54",
+      "nome": "Proteína soja isolada",
+      "peso": 2,
+      "precoCompraKg": 67,
+      "precoTotalCompra": 134,
+      "precoAntigoKg": 160,
+      "precoVendaKg": 111.67,
+      "localId": "b4cdd7c4-aa09-409f-a02b-75532f6d88b8"
+    },
+    {
+      "id": "AGR55",
+      "nome": "Psillyum",
+      "peso": 5,
+      "precoCompraKg": 45,
+      "precoTotalCompra": 225,
+      "precoAntigoKg": 120,
+      "precoVendaKg": 75,
+      "localId": "8a0c307b-e81c-4007-a410-0ea1e20b18ec"
+    },
+    {
+      "id": "AGR56",
+      "nome": "Pepitas de girassol",
+      "peso": 5,
+      "precoCompraKg": 23,
+      "precoTotalCompra": 115,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 38.33,
+      "localId": "786f216e-07c4-4ccf-8aec-c9eca482df52"
+    },
+    {
+      "id": "AGR57",
+      "nome": "Quinua Grãos Mix",
+      "peso": 2,
+      "precoCompraKg": 42,
+      "precoTotalCompra": 84,
+      "precoAntigoKg": 90,
+      "precoVendaKg": 70,
+      "localId": "dc967f14-011d-4806-91fb-6a8bf1fd6723"
+    },
+    {
+      "id": "AGR58",
+      "nome": "Sal rosa do Himalaia",
+      "peso": 5,
+      "precoCompraKg": 6,
+      "precoTotalCompra": 30,
+      "precoAntigoKg": 20,
+      "precoVendaKg": 10,
+      "localId": "25b4c170-c6b3-4e42-a307-eb64fb52ce11"
+    },
+    {
+      "id": "AGR59",
+      "nome": "Sementes de abóbora",
+      "peso": 5,
+      "precoCompraKg": 58,
+      "precoTotalCompra": 290,
+      "precoAntigoKg": 130,
+      "precoVendaKg": 96.67,
+      "localId": "40cbdc34-294b-45c9-9c26-d3ca686a42eb"
+    },
+    {
+      "id": "AGR60",
+      "nome": "Tâmara sem caroço",
+      "peso": 1.4989999999999999,
+      "precoCompraKg": 36,
+      "precoTotalCompra": 72,
+      "precoAntigoKg": 80,
+      "precoVendaKg": 60,
+      "localId": "9eaeca98-fbae-44e6-95b5-e604dd3e556a"
+    },
+    {
+      "id": "AGR61",
+      "nome": "Tempero Ana Maria",
+      "peso": 2.938,
+      "precoCompraKg": 32,
+      "precoTotalCompra": 96,
+      "precoAntigoKg": 80,
+      "precoVendaKg": 53.33,
+      "localId": "2a2e79be-2dbd-4d44-95c0-2c192de03771"
+    },
+    {
+      "id": "AGR62",
+      "nome": "Tempero Edu Guedes",
+      "peso": 3,
+      "precoCompraKg": 41,
+      "precoTotalCompra": 123,
+      "precoAntigoKg": 90,
+      "precoVendaKg": 68.33,
+      "localId": "c01b479e-dae5-4dcd-881d-5d62f45b30fb"
+    },
+    {
+      "id": "AGR63",
+      "nome": "Tempero Pega Marido",
+      "peso": 1.902,
+      "precoCompraKg": 54,
+      "precoTotalCompra": 108,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 90,
+      "localId": "6cbd0feb-58b4-465d-9e55-10cfdf4fdfe5"
+    },
+    {
+      "id": "AGR64",
+      "nome": "Tribullus pó",
+      "peso": 2,
+      "precoCompraKg": 54,
+      "precoTotalCompra": 108,
+      "precoAntigoKg": 130,
+      "precoVendaKg": 90,
+      "localId": "9b4d51d1-6253-4455-a108-f979c884095e"
+    },
+    {
+      "id": "AGR65",
+      "nome": "Uvas passas",
+      "peso": 2,
+      "precoCompraKg": 41,
+      "precoTotalCompra": 82,
+      "precoAntigoKg": 80,
+      "precoVendaKg": 68.33,
+      "localId": "91103918-c05c-4e05-9b21-1832cbb1e657"
+    },
+    {
+      "id": "AGR66",
+      "nome": "Unha de Gato",
+      "peso": 2,
+      "precoCompraKg": 42,
+      "precoTotalCompra": 84,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 70,
+      "localId": "03a4e58c-da03-477d-9040-0caad1d79de3"
+    },
+    {
+      "id": "AGR67",
+      "nome": "Uxi amarelo",
+      "peso": 3,
+      "precoCompraKg": 40,
+      "precoTotalCompra": 120,
+      "precoAntigoKg": 100,
+      "precoVendaKg": 66.67,
+      "localId": "df21ea15-a9c2-41cf-84c3-af9e0533f7db"
+    },
+    {
+      "id": "AGR68",
+      "nome": "Xilitol",
+      "peso": 2,
+      "precoCompraKg": 56,
+      "precoTotalCompra": 112,
+      "precoAntigoKg": 120,
+      "precoVendaKg": 93.33,
+      "localId": "20620df6-9d78-4d74-92a1-2f74ac682da8"
+    },
+    {
+      "id": "2000000000001",
+      "nome": "Bolinho de chocolate feito com Coco",
+      "peso": 10,
+      "precoCompraKg": 4.3,
+      "precoTotalCompra": 43,
+      "precoAntigoKg": 6.05,
+      "precoVendaKg": 6.05,
+      "localId": "66304cc8-0c50-4f57-8f25-e4990eca41ef"
+    },
+    {
+      "id": "7896328210022",
+      "nome": "CHA BARAO CAMOMILA",
+      "peso": 10,
+      "precoCompraKg": 3.71,
+      "precoTotalCompra": 37.1,
+      "precoAntigoKg": 6.19,
+      "precoVendaKg": 6.19,
+      "localId": "2c4ed271-db58-443b-8025-82c027f90b1f"
+    },
+    {
+      "id": "7897078000840",
+      "nome": "Bala mel e gengibre",
+      "peso": 10,
+      "precoCompraKg": 6.1,
+      "precoTotalCompra": 61,
+      "precoAntigoKg": 10.17,
+      "precoVendaKg": 10.17,
+      "localId": "fb01190b-eaf4-45be-a145-3b589d6f1f8c"
+    },
+    {
+      "id": "7898961803128",
+      "nome": "Creme de milho",
+      "peso": 10,
+      "precoCompraKg": 4.88,
+      "precoTotalCompra": 48.8,
+      "precoAntigoKg": 8.14,
+      "precoVendaKg": 8.14,
+      "localId": "f4128ea4-62de-478f-a846-d0c590388c99"
+    },
+    {
+      "id": "7898380410952",
+      "nome": "BOLINHO BELIVE MUFFIN 40G COCO/CHOCOLATE",
+      "peso": 10,
+      "precoCompraKg": 4.3,
+      "precoTotalCompra": 43,
+      "precoAntigoKg": 7.17,
+      "precoVendaKg": 7.17,
+      "localId": "497aec41-e05f-4a24-903b-35e1e19136a5"
+    },
+    {
+      "id": "7898380411119",
+      "nome": "Bolinho Double Chocolate 40g",
+      "peso": 9,
+      "precoCompraKg": 4.3,
+      "precoTotalCompra": 38.7,
+      "precoAntigoKg": 7.17,
+      "precoVendaKg": 7.17,
+      "localId": "062f9632-da54-442c-a6e8-7aeff86e9cdb"
+    },
+    {
+      "id": "7898380410938",
+      "nome": "BROWNIE BELIVE 40G CHOCOLATE",
+      "peso": 8,
+      "precoCompraKg": 5.9,
+      "precoTotalCompra": 53.1,
+      "precoAntigoKg": 9.84,
+      "precoVendaKg": 9.84,
+      "localId": "748475c0-86bb-4206-adcc-efe9faab6798"
+    },
+    {
+      "id": "7898380412307",
+      "nome": "Cookies Double Chocolate 67g",
+      "peso": 9,
+      "precoCompraKg": 7.57,
+      "precoTotalCompra": 68.13,
+      "precoAntigoKg": 12.62,
+      "precoVendaKg": 12.62,
+      "localId": "8860493f-773c-4b18-8862-1ec6450fa4fe"
+    },
+    {
+      "id": "7898380410822",
+      "nome": "SNACKS BELIVE CHURRASCO",
+      "peso": 2,
+      "precoCompraKg": 4.03,
+      "precoTotalCompra": 16.12,
+      "precoAntigoKg": 6.72,
+      "precoVendaKg": 6.72,
+      "localId": "1f81c91b-aacc-4b2d-8cf1-21211bb80b52"
+    },
+    {
+      "id": "7898380410815",
+      "nome": "SNACK BELIVE S/GLUTEN 35 G CEBOLA E SALSA",
+      "peso": 4,
+      "precoCompraKg": 4.03,
+      "precoTotalCompra": 16.12,
+      "precoAntigoKg": 6.72,
+      "precoVendaKg": 6.72,
+      "localId": "714770a7-8a4f-4b41-92e3-54c038ced62d"
+    },
+    {
+      "id": "7898380411201",
+      "nome": "SNACK BELIVE S/GLUTEN 35 G QUEIJO",
+      "peso": 1,
+      "precoCompraKg": 4.03,
+      "precoTotalCompra": 12.09,
+      "precoAntigoKg": 6.72,
+      "precoVendaKg": 6.72,
+      "localId": "b6cfb848-03b9-489b-aba5-8a15a3c08b2f"
+    },
+    {
+      "id": "7898380412420",
+      "nome": "SNACK BELIVE S/GLUTEN 25 G QUEIJO",
+      "peso": 4,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 12.64,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "1331c2a1-999f-47e5-993f-3bb7fc04a131"
+    },
+    {
+      "id": "7898380412772",
+      "nome": "SNACK BELIVE S/GLUTEN 25 G QUEIJO NACHO",
+      "peso": 3,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 9.48,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "99b77755-2b6c-4b27-bd5e-8bfd1e61e0eb"
+    },
+    {
+      "id": "7898380412437",
+      "nome": "SNACK BELIVE S/GLUTEN 25 G PRESUNTO",
+      "peso": 4,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 12.64,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "f78d7106-26d0-416e-ab3d-4f7d6d992b53"
+    },
+    {
+      "id": "7898380410365",
+      "nome": "SNACK SOJA GOOD SOY 25GR ERVAS FINAS",
+      "peso": 4,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 12.64,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "0ff4e515-ad1a-49fb-a78d-7ad9c999ba3f"
+    },
+    {
+      "id": "7898380412789",
+      "nome": "SNACK BELIVE S/GLUTEN 25 G REQUEIJÃO",
+      "peso": 4,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 12.64,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "6253c7a5-769a-482c-a8ad-be908c655b86"
+    },
+    {
+      "id": "7898380411867",
+      "nome": "SNACK SOJA GOOD SOY 25GR PEITO DE PERU",
+      "peso": 4,
+      "precoCompraKg": 3.16,
+      "precoTotalCompra": 12.64,
+      "precoAntigoKg": 5.27,
+      "precoVendaKg": 5.27,
+      "localId": "be049d70-3672-4b7e-ad06-04f858986cd3"
+    },
+    {
+      "id": "7896024801104",
+      "nome": "Cevada Superbom",
+      "peso": 0,
+      "precoCompraKg": 10.49,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 17.49,
+      "precoVendaKg": 17.49,
+      "localId": "9d7e5a60-b699-48b2-a743-18cf28d3a03f"
+    },
+    {
+      "id": "7896799801576",
+      "nome": "ALLOV",
+      "peso": 0,
+      "precoCompraKg": 61.2,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 61.2,
+      "precoVendaKg": 61.2,
+      "localId": "7edaa270-a3bd-47ed-be8b-0cbad8d3dac1"
+    },
+    {
+      "id": "7896024810908",
+      "nome": "Café de Milho Superbom",
+      "peso": -1,
+      "precoCompraKg": 9.17,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 15.29,
+      "precoVendaKg": 15.29,
+      "localId": "592cd19f-9a1b-4dca-8036-9c0b84d6827b"
+    },
+    {
+      "id": "7896663300204",
+      "nome": "EXTRATO DE PROPOLIS APIS FLORA",
+      "peso": 0,
+      "precoCompraKg": 20.85,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 34.76,
+      "precoVendaKg": 34.76,
+      "localId": "202ab54e-e9a9-4af4-9a42-9ca7d3a98ab3"
+    },
+    {
+      "id": "7896663322473",
+      "nome": "Própolis Verde 70 Apis Flora",
+      "peso": 0,
+      "precoCompraKg": 39.44,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 65.74,
+      "precoVendaKg": 65.74,
+      "localId": "aca17355-3ee3-488d-b1df-2c8d94106d36"
+    },
+    {
+      "id": "7896663301317",
+      "nome": "PROPOMAX EXTRATO AQUOSO DE PROPOLIS",
+      "peso": -1,
+      "precoCompraKg": 24.92,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 41.54,
+      "precoVendaKg": 41.54,
+      "localId": "e44f86dd-b724-47ce-a9a0-e17f50572329"
+    },
+    {
+      "id": "7896663302550",
+      "nome": "Própolis Verde Apis Flora",
+      "peso": 0,
+      "precoCompraKg": 20.85,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 34.76,
+      "precoVendaKg": 34.76,
+      "localId": "6eb3bdac-e589-45df-a6b0-6a5ffc546ba6"
+    },
+    {
+      "id": "7896837101248",
+      "nome": "PALITO DE FIBRAS DE MORANGO BIO SOFT",
+      "peso": 0,
+      "precoCompraKg": 1.99,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 3.32,
+      "precoVendaKg": 3.32,
+      "localId": "9f5cb806-52e5-41d3-9f46-0c34d9aab440"
+    },
+    {
+      "id": "7898568900749",
+      "nome": "MISTURA BOLO AVEIA, AMARANTO E CACAU INTEGRAL VITALIN 450G",
+      "peso": 0,
+      "precoCompraKg": 9.43,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 15.72,
+      "precoVendaKg": 15.72,
+      "localId": "6db39a36-9c79-4ed5-813b-3088e39f16cb"
+    },
+    {
+      "id": "7898568900756",
+      "nome": "MISTURA BOLO AVEIA, CHIA E LARANJA INTEGRAL VITALIN 450G",
+      "peso": 0,
+      "precoCompraKg": 9.43,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 15.72,
+      "precoVendaKg": 15.72,
+      "localId": "ecdd3aef-9ba4-4d0e-9abb-863f719aa477"
+    },
+    {
+      "id": "7898996410704",
+      "nome": "Vinagre Maça Puro Pomar Vidro",
+      "peso": 0,
+      "precoCompraKg": 23.71,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 39.52,
+      "precoVendaKg": 39.52,
+      "localId": "6d8fc0c4-7d70-4a8a-a203-c23e5f54bab0"
+    },
+    {
+      "id": "7898996410711",
+      "nome": "Vinagre Maça Puro Pomar",
+      "peso": 0,
+      "precoCompraKg": 14.85,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 24.75,
+      "precoVendaKg": 24.75,
+      "localId": "f5069ea1-30d7-4611-99ed-abb75015315b"
+    },
+    {
+      "id": "7898596082776",
+      "nome": "Manteiga de Coco",
+      "peso": 0,
+      "precoCompraKg": 14.91,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 24.85,
+      "precoVendaKg": 24.85,
+      "localId": "d17e687a-5892-47d5-8e44-fe8ddb7169ed"
+    },
+    {
+      "id": "7896311773206",
+      "nome": "Vitamina B12",
+      "peso": -1,
+      "precoCompraKg": 60,
+      "precoTotalCompra": 0,
+      "precoAntigoKg": 60,
+      "precoVendaKg": 60,
+      "localId": "3e22ff7b-6b28-48bb-bf03-92d8418a7112"
+    },
+    {
+      "id": "FAR01",
+      "nome": "Farofa 150g",
+      "precoVendaKg": 3,
+      "precoAntigoKg": 3,
+      "peso": 1,
+      "precoCompraKg": 1.41,
+      "precoTotalCompra": 1.41,
+      "localId": "4f25e7a6-7d0d-4789-b07e-7767af390291"
+    },
+    {
+      "id": "FAR02",
+      "nome": "Farofa 250g",
+      "precoVendaKg": 8,
+      "precoAntigoKg": 8,
+      "peso": 1,
+      "precoCompraKg": 3.1,
+      "precoTotalCompra": 3.1,
+      "localId": "0f070456-4902-4d7b-a9f4-97092c9e31e3"
+    },
+    {
+      "id": "FAR03",
+      "nome": "farofa 400g",
+      "precoVendaKg": 10,
+      "precoAntigoKg": 10,
+      "peso": 3,
+      "precoCompraKg": 4.67,
+      "precoTotalCompra": 14.01,
+      "localId": "ee2e5e5d-e93f-42e8-b9fb-0b998616cf4b"
+    },
+    {
+      "id": "natu01",
+      "nome": "Natubeauty",
+      "precoVendaKg": 100,
+      "precoAntigoKg": 100,
+      "peso": 11,
+      "precoCompraKg": 40,
+      "precoTotalCompra": 800,
+      "localId": "e4c32261-f2e2-45f0-8590-e1eefb74e6c0"
+    },
+    {
+      "id": "7898961139265",
+      "nome": "Alloezil",
+      "precoVendaKg": 140,
+      "precoCompraKg": 100,
+      "peso": 7,
+      "precoAntigoKg": 0,
+      "localId": "2895530d-054f-458c-8e20-8806ddbe1769"
+    },
+    {
+      "id": "7898961803005",
+      "nome": "Flocos de milho para cuzcuz 500g",
+      "precoVendaKg": 6.49,
+      "precoCompraKg": 3.89,
+      "peso": 20,
+      "precoAntigoKg": 0,
+      "localId": "b5a1cd8d-d0e4-467c-b10d-c1c2ab0e4caf"
+    },
+    {
+      "id": "7898697820000",
+      "nome": "Goiabinha",
+      "precoVendaKg": 3.5,
+      "precoCompraKg": 2.09,
+      "peso": 24,
+      "precoAntigoKg": 0,
+      "localId": "f2d24b76-80d7-4446-a4f4-b9e31b38c58c"
+    },
+    {
+      "id": "7897707102952",
+      "nome": "Bananinha com ameixa",
+      "precoVendaKg": 3.5,
+      "precoCompraKg": 2.09,
+      "peso": 24,
+      "precoAntigoKg": 0,
+      "localId": "220e96bb-128c-4ec1-b12f-4b7b87ca2860"
+    },
+    {
+      "id": "7897707102969",
+      "nome": "Bananinha com uvas passas",
+      "precoVendaKg": 3.5,
+      "precoCompraKg": 2.09,
+      "peso": 24,
+      "precoAntigoKg": 0,
+      "localId": "105930c7-3651-4ce4-a07a-6bf69b2cc2b3"
+    },
+    {
+      "id": "7897707102945",
+      "nome": "Bananinha",
+      "precoVendaKg": 3.5,
+      "precoCompraKg": 2.09,
+      "peso": 24,
+      "precoAntigoKg": 0,
+      "localId": "b2363e9c-a951-4369-a221-0f5637d5ea39"
+    },
+    {
+      "id": "7898939072600",
+      "nome": "Pasta de amendoim tradicional ",
+      "precoVendaKg": 32.1,
+      "precoCompraKg": 19.25,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "6677b36b-3981-44a5-8398-f212495a493a"
+    },
+    {
+      "id": "7898939072617",
+      "nome": "Pasta de amendoim crocante",
+      "precoVendaKg": 32.1,
+      "precoCompraKg": 19.25,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "a00e3d8b-23fc-458b-89f8-34d311548fad"
+    },
+    {
+      "id": "7898215150480",
+      "nome": "Doce de Leite sem lactose",
+      "precoVendaKg": 12.65,
+      "precoCompraKg": 7.59,
+      "peso": 3,
+      "precoAntigoKg": 0,
+      "localId": "1f351ee0-9be4-4d01-95c9-c56c93882057"
+    },
+    {
+      "id": "7898914221344",
+      "nome": "Óleo de coco ",
+      "precoVendaKg": 13.8,
+      "precoCompraKg": 8.28,
+      "peso": 6,
+      "precoAntigoKg": 0,
+      "localId": "19522d4a-fced-4b66-a196-f23751beb9de"
+    },
+    {
+      "id": "7031220802504",
+      "nome": "Semente de abobora capsula ",
+      "precoVendaKg": 30,
+      "precoCompraKg": 18,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "f2906b08-2382-4189-9bf0-85adeddd7a52"
+    },
+    {
+      "id": "7891222701928",
+      "nome": "Óleo de abacate capsula  ",
+      "precoVendaKg": 30,
+      "precoCompraKg": 18,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "957121c7-215f-4ee7-881b-1a24921e90d3"
+    },
+    {
+      "id": "7894567890883",
+      "nome": "Carvão vegetal ativado capsula ",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "1c8514d4-1eef-4f1e-b6bf-88e92ae4d3ed"
+    },
+    {
+      "id": "7894567890722",
+      "nome": "Chá verde capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "e1bb7d58-1631-40f7-9a99-40ab0ca5a7a8"
+    },
+    {
+      "id": "7895846123401",
+      "nome": "Valeriana capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "b8c5d96b-d906-4c87-bfa6-3263aabb2432"
+    },
+    {
+      "id": "7892383976828",
+      "nome": "Prímula capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "5afac464-6839-4a4f-b027-7acfe5500764"
+    },
+    {
+      "id": "7894567891002",
+      "nome": "Melão São Caetano capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "b722f5e4-9341-47a7-8bf6-1c2f28e32cc0"
+    },
+    {
+      "id": "7892679028088",
+      "nome": "Ginkgo biloba capsula ",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "81c0cdc0-3987-4dd7-aa07-33fb25924263"
+    },
+    {
+      "id": "feno grego",
+      "nome": "Feno Grego",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "7c2da42b-179a-42ea-8e66-55f06e7c471a"
+    },
+    {
+      "id": "7891222700976",
+      "nome": "Espinheira santa ",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 1,
+      "precoAntigoKg": 0,
+      "localId": "5714249a-5fd4-4506-8d6a-30f053a29331"
+    },
+    {
+      "id": "7891222709320",
+      "nome": "Ashwagandha capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "197bd309-6a92-482b-81de-fde89216ce2b"
+    },
+    {
+      "id": "7891222701584",
+      "nome": "Amora Miura",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "d3f7ce9c-9a33-4297-8527-ec0cc90c38c2"
+    },
+    {
+      "id": "7894567890272",
+      "nome": "Ora pro nobis capsula ",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "f6c05b21-3d73-4e94-9828-d7031040b00e"
+    },
+    {
+      "id": "7891222724101",
+      "nome": "Vitamina B12",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "3f439863-950e-4468-b4c3-131c1708a07e"
+    },
+    {
+      "id": "7891222700518",
+      "nome": "Vitamina K2",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "2293814a-726c-4020-b263-b23228ab4fa5"
+    },
+    {
+      "id": "natu02",
+      "nome": "Magnatu",
+      "precoVendaKg": 100,
+      "precoCompraKg": 40,
+      "peso": 12,
+      "precoAntigoKg": 0,
+      "localId": "3eb76c6e-7538-4e6c-98e0-7c11a1a9aa7f"
+    },
+    {
+      "id": "natu03",
+      "nome": "Natuflex",
+      "precoVendaKg": 100,
+      "precoCompraKg": 40,
+      "peso": 25,
+      "precoAntigoKg": 0,
+      "localId": "1ff890e7-1b65-441d-a0f4-31d990712c4b"
+    },
+    {
+      "id": "natu04",
+      "nome": "Natupeso",
+      "precoVendaKg": 100,
+      "precoCompraKg": 40,
+      "peso": 20,
+      "precoAntigoKg": 0,
+      "localId": "6f69e186-4523-4281-9ec7-9dda7c0b0a4c"
+    },
+    {
+      "id": "natu05",
+      "nome": "Natufoco",
+      "precoVendaKg": 100,
+      "precoCompraKg": 40,
+      "peso": 10,
+      "precoAntigoKg": 0,
+      "localId": "2450493e-c628-4624-ad8b-ad36462873a2"
+    },
+    {
+      "id": "natu06",
+      "nome": "Natuomega",
+      "precoVendaKg": 100,
+      "precoCompraKg": 60,
+      "peso": 10,
+      "precoAntigoKg": 0,
+      "localId": "5bdeaa39-570a-4010-b112-44ada044d63d"
+    },
+    {
+      "id": "natu07",
+      "nome": "natud",
+      "precoVendaKg": 60,
+      "precoCompraKg": 35,
+      "peso": 3,
+      "precoAntigoKg": 0,
+      "localId": "bfa34a3e-b4b6-4c5f-96fd-5af225982359"
+    },
+    {
+      "id": "maca01",
+      "nome": "Maca Peruana capsula",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "7b14a801-0666-48a2-94d9-fb9f7b7dd18d"
+    },
+    {
+      "id": "7891222717035",
+      "nome": "Alcachofra",
+      "precoVendaKg": 20,
+      "precoCompraKg": 12,
+      "peso": 2,
+      "precoAntigoKg": 0,
+      "localId": "a94155e5-7aed-4843-b54b-0c82e9751292"
+    }
+  ],
+  "sales": [
+    {
+      "id": "243f736d-042e-4bcd-ad73-d9fd76952520",
+      "date": "2025-11-21T19:55:52.869Z",
+      "items": [
+        {
+          "id": "AGR28",
+          "nome": "Farelo de aveia",
+          "peso": 5,
+          "precoCompraKg": 18,
+          "precoTotalCompra": 90,
+          "precoAntigoKg": 50,
+          "precoVendaKg": 30,
+          "localId": "f606f956-24ef-46ab-a905-d2996e838487",
+          "sellQtdRaw": 333,
+          "sellQtdCalc": 0.333,
+          "sellSubtotal": 9.99,
+          "isGranel": true
+        }
+      ],
+      "total": 9.99,
+      "cost": 5.994000000000001,
+      "profit": 3.9959999999999996,
+      "method": "pix"
+    },
+    {
+      "id": "3c2f5888-d128-40fd-bb39-09519660fd60",
+      "date": "2025-11-21T20:28:06.766Z",
+      "items": [
+        {
+          "id": "AGR04",
+          "nome": "Amendoim torrado",
+          "peso": 3,
+          "precoCompraKg": 25,
+          "precoTotalCompra": 75,
+          "precoAntigoKg": 50,
+          "precoVendaKg": 41.67,
+          "localId": "6c3d1bc8-0c1c-4f1b-a1da-d3cba0a8bcb3",
+          "sellQtdRaw": 204,
+          "sellQtdCalc": 0.204,
+          "sellSubtotal": 8.50068,
+          "isGranel": true
+        },
+        {
+          "id": "AGR30",
+          "nome": "Farinha de uva",
+          "peso": 3,
+          "precoCompraKg": 50,
+          "precoTotalCompra": 150,
+          "precoAntigoKg": 110,
+          "precoVendaKg": 83.33,
+          "localId": "f9303f71-c015-430a-a569-9be5ba3f14b9",
+          "sellQtdRaw": 136,
+          "sellQtdCalc": 0.136,
+          "sellSubtotal": 11.332880000000001,
+          "isGranel": true
+        },
+        {
+          "id": "AGR23",
+          "nome": "Cramberry",
+          "peso": 2,
+          "precoCompraKg": 61,
+          "precoTotalCompra": 122,
+          "precoAntigoKg": 140,
+          "precoVendaKg": 101.67,
+          "localId": "12472eaf-c3ed-454f-a523-f5a194b3e418",
+          "sellQtdRaw": 90,
+          "sellQtdCalc": 0.09,
+          "sellSubtotal": 9.1503,
+          "isGranel": true
+        }
+      ],
+      "total": 28.98386,
+      "cost": 17.39,
+      "profit": 11.59386,
+      "method": "pix"
+    },
+    {
+      "id": "ab9fb0af-ea5d-4e80-8d4e-8f04183117f9",
+      "date": "2025-11-24T20:03:43.388Z",
+      "items": [
+        {
+          "id": "AGR60",
+          "nome": "Tâmara sem caroço",
+          "peso": 2,
+          "precoCompraKg": 36,
+          "precoTotalCompra": 72,
+          "precoAntigoKg": 80,
+          "precoVendaKg": 60,
+          "localId": "9eaeca98-fbae-44e6-95b5-e604dd3e556a",
+          "sellQtdRaw": 167,
+          "sellQtdCalc": 0.167,
+          "sellSubtotal": 10.020000000000001,
+          "isGranel": true
+        }
+      ],
+      "total": 10.020000000000001,
+      "cost": 6.0120000000000005,
+      "profit": 4.008000000000001,
+      "method": "credito"
+    },
+    {
+      "id": "1d3252a9-01b2-47ea-9e3a-7b37b4dca702",
+      "date": "2025-11-25T19:23:49.241Z",
+      "items": [
+        {
+          "id": "AGR10",
+          "nome": "Castanha Caramelizada",
+          "peso": 2,
+          "precoCompraKg": 45,
+          "precoTotalCompra": 90,
+          "precoAntigoKg": 69.9,
+          "precoVendaKg": 75,
+          "localId": "0da9ddb1-37ca-40de-b5a7-d2ab001272a8",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 7.5,
+          "isGranel": true
+        }
+      ],
+      "total": 7.5,
+      "cost": 4.5,
+      "profit": 3,
+      "method": "dinheiro"
+    },
+    {
+      "id": "db008e19-9abb-447c-92ed-91f7c6b17fef",
+      "date": "2025-11-25T19:48:56.459Z",
+      "items": [
+        {
+          "id": "AGR60",
+          "nome": "Tâmara sem caroço",
+          "peso": 1.833,
+          "precoCompraKg": 36,
+          "precoTotalCompra": 72,
+          "precoAntigoKg": 80,
+          "precoVendaKg": 60,
+          "localId": "9eaeca98-fbae-44e6-95b5-e604dd3e556a",
+          "sellQtdRaw": 167,
+          "sellQtdCalc": 0.167,
+          "sellSubtotal": 10.020000000000001,
+          "isGranel": true
+        }
+      ],
+      "total": 10.020000000000001,
+      "cost": 6.0120000000000005,
+      "profit": 4.008000000000001,
+      "method": "pix"
+    },
+    {
+      "id": "e8a43ba0-7eda-4e52-a0d8-0ea225c036ba",
+      "date": "2025-11-28T13:11:19.680Z",
+      "items": [
+        {
+          "id": "7891222700976",
+          "nome": "Espinheira santa ",
+          "precoVendaKg": 20,
+          "precoCompraKg": 12,
+          "peso": 2,
+          "precoAntigoKg": 0,
+          "localId": "5714249a-5fd4-4506-8d6a-30f053a29331",
+          "sellQtdRaw": 1,
+          "sellQtdCalc": 1,
+          "sellSubtotal": 20,
+          "isGranel": false
+        }
+      ],
+      "total": 20,
+      "cost": 12,
+      "profit": 8,
+      "method": "dinheiro"
+    },
+    {
+      "id": "32a7cca9-a1f4-451c-9d9b-8138e7b2bb83",
+      "date": "2025-11-28T13:30:50.118Z",
+      "items": [
+        {
+          "id": "7896311773206",
+          "nome": "Vitamina B12",
+          "peso": 0,
+          "precoCompraKg": 60,
+          "precoTotalCompra": 0,
+          "precoAntigoKg": 60,
+          "precoVendaKg": 60,
+          "localId": "3e22ff7b-6b28-48bb-bf03-92d8418a7112",
+          "sellQtdRaw": 1,
+          "sellQtdCalc": 1,
+          "sellSubtotal": 60,
+          "isGranel": false
+        },
+        {
+          "id": "7896663301317",
+          "nome": "PROPOMAX EXTRATO AQUOSO DE PROPOLIS",
+          "peso": 0,
+          "precoCompraKg": 24.92,
+          "precoTotalCompra": 0,
+          "precoAntigoKg": 41.54,
+          "precoVendaKg": 41.54,
+          "localId": "e44f86dd-b724-47ce-a9a0-e17f50572329",
+          "sellQtdRaw": 1,
+          "sellQtdCalc": 1,
+          "sellSubtotal": 41.54,
+          "isGranel": false
+        },
+        {
+          "id": "AGR11",
+          "nome": "Castanha do Pará",
+          "peso": 5,
+          "precoCompraKg": 155,
+          "precoTotalCompra": 775,
+          "precoAntigoKg": 200,
+          "precoVendaKg": 258.33,
+          "localId": "40bd0463-b767-4ab2-a0d0-7f8b4466b27c",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 25.833,
+          "isGranel": true
+        },
+        {
+          "id": "natu02",
+          "nome": "Magnatu",
+          "precoVendaKg": 100,
+          "precoCompraKg": 40,
+          "peso": 13,
+          "precoAntigoKg": 0,
+          "localId": "3eb76c6e-7538-4e6c-98e0-7c11a1a9aa7f",
+          "sellQtdRaw": 1,
+          "sellQtdCalc": 1,
+          "sellSubtotal": 100,
+          "isGranel": false
+        }
+      ],
+      "total": 227.373,
+      "cost": 140.42000000000002,
+      "profit": 86.95299999999997,
+      "method": "pix"
+    },
+    {
+      "id": "55fbcfc0-f25b-4d9f-b509-db695dc21990",
+      "date": "2025-11-28T13:34:39.062Z",
+      "items": [
+        {
+          "id": "AGR41",
+          "nome": "Lemon pepper",
+          "peso": 2.872,
+          "precoCompraKg": 36,
+          "precoTotalCompra": 108,
+          "precoAntigoKg": 90,
+          "precoVendaKg": 60,
+          "localId": "99141d78-4c29-4b1f-9358-a7cafa6ea299",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 6,
+          "isGranel": true
+        },
+        {
+          "id": "AGR50",
+          "nome": "Páprica defumada",
+          "peso": 1.8820000000000001,
+          "precoCompraKg": 25,
+          "precoTotalCompra": 50,
+          "precoAntigoKg": 60,
+          "precoVendaKg": 41.67,
+          "localId": "684d2e1c-58d8-44d2-b8fd-a9560462e691",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 4.167000000000001,
+          "isGranel": true
+        },
+        {
+          "id": "AGR20",
+          "nome": "Chimichurri s/pimenta",
+          "peso": 2.908,
+          "precoCompraKg": 39,
+          "precoTotalCompra": 117,
+          "precoAntigoKg": 100,
+          "precoVendaKg": 65,
+          "localId": "02b03464-15c3-4e2c-91be-b94fec367f55",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 6.5,
+          "isGranel": true
+        },
+        {
+          "id": "AGR61",
+          "nome": "Tempero Ana Maria",
+          "peso": 3,
+          "precoCompraKg": 32,
+          "precoTotalCompra": 96,
+          "precoAntigoKg": 80,
+          "precoVendaKg": 53.33,
+          "localId": "2a2e79be-2dbd-4d44-95c0-2c192de03771",
+          "sellQtdRaw": 62,
+          "sellQtdCalc": 0.062,
+          "sellSubtotal": 3.30646,
+          "isGranel": true
+        }
+      ],
+      "total": 19.973460000000003,
+      "cost": 11.984,
+      "profit": 7.989460000000003,
+      "method": "dinheiro"
+    },
+    {
+      "id": "9ee8d8ec-9f5e-45f7-856e-351467bcc41b",
+      "date": "2025-11-28T13:35:48.733Z",
+      "items": [
+        {
+          "id": "AGR21",
+          "nome": "Chia",
+          "peso": 5,
+          "precoCompraKg": 32,
+          "precoTotalCompra": 160,
+          "precoAntigoKg": 6.99,
+          "precoVendaKg": 53.33,
+          "localId": "b48f9d02-5286-4524-8db8-5f6b08ae780e",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 5.333,
+          "isGranel": true
+        },
+        {
+          "id": "AGR50",
+          "nome": "Páprica defumada",
+          "peso": 1.782,
+          "precoCompraKg": 25,
+          "precoTotalCompra": 50,
+          "precoAntigoKg": 60,
+          "precoVendaKg": 41.67,
+          "localId": "684d2e1c-58d8-44d2-b8fd-a9560462e691",
+          "sellQtdRaw": 100,
+          "sellQtdCalc": 0.1,
+          "sellSubtotal": 4.167000000000001,
+          "isGranel": true
+        }
+      ],
+      "total": 9.5,
+      "cost": 5.7,
+      "profit": 3.8,
+      "method": "dinheiro"
+    },
+    {
+      "id": "394f406f-846c-4446-899c-14f2b2eb5618",
+      "date": "2025-11-28T13:48:24.652Z",
+      "items": [
+        {
+          "id": "AGR60",
+          "nome": "Tâmara sem caroço",
+          "peso": 1.666,
+          "precoCompraKg": 36,
+          "precoTotalCompra": 72,
+          "precoAntigoKg": 80,
+          "precoVendaKg": 60,
+          "localId": "9eaeca98-fbae-44e6-95b5-e604dd3e556a",
+          "sellQtdRaw": 167,
+          "sellQtdCalc": 0.167,
+          "sellSubtotal": 10.020000000000001,
+          "isGranel": true
+        }
+      ],
+      "total": 10.020000000000001,
+      "cost": 6.0120000000000005,
+      "profit": 4.008000000000001,
+      "method": "dinheiro"
+    }
+  ],
+  "expenses": [],
+  "cashier": {
+    "isOpen": true,
+    "openTime": "2025-11-21T15:03:27.009Z",
+    "initialValue": 200,
+    "history": [
+      {
+        "id": "41a7c2e7-d825-47a8-b13f-704b8524d66a",
+        "type": "ABERTURA",
+        "desc": "Abertura de Caixa",
+        "val": 200,
+        "method": "Dinheiro",
+        "date": "2025-11-21T15:03:27.013Z"
+      }
+    ]
+  }
+}
